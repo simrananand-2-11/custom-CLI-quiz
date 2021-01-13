@@ -1,6 +1,6 @@
 # custom-CLI-quiz
 
-  It is a command-line interface based quiz made using Vanilla Javascript to test your understanding of Flowers.
+  It is a command-line interface based quiz made using NodeJS to test your understanding of Flowers.
   
   This quiz consists of 3 levels. 3 points each. 
   
